@@ -19,7 +19,7 @@
 #define GPIO_PIN_05 GpioAction::BUTTON_PRESS_B1    // LEFT   | LEFT   | LEFT    | LEFT     | LEFT   | LEFT   |
 
 #define GPIO_PIN_06 GpioAction::BUTTON_PRESS_B3    // B1     | A      | B       | Cross    | 2      | K1     |
-#define GPIO_PIN_07 GpioAction::BUTTON_PRESS_B1    // B2     | B      | A       | Circle   | 3      | K2     |
+#define GPIO_PIN_07 GpioAction::BUTTON_PRESS_B2    // B2     | B      | A       | Circle   | 3      | K2     |
 #define GPIO_PIN_08 GpioAction::BUTTON_PRESS_S1    // R2     | RT     | ZR      | R2       | 8      | K3     |
 #define GPIO_PIN_09 GpioAction::BUTTON_PRESS_S2    // L2     | LT     | ZL      | L2       | 7      | K4     |
 
