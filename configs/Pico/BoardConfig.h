@@ -37,8 +37,8 @@
 
 // Setting GPIO pins to assigned by add-on
 //
-#define GPIO_PIN_00 GpioAction::BUTTON_PRESS_R1
-#define GPIO_PIN_01 GpioAction::BUTTON_PRESS_R2
+#define GPIO_PIN_00 GpioAction::BUTTON_PRESS_L1
+#define GPIO_PIN_01 GpioAction::BUTTON_PRESS_L2
 #define GPIO_PIN_15 GpioAction::ASSIGNED_TO_ADDON
 #define GPIO_PIN_28 GpioAction::ASSIGNED_TO_ADDON
 
